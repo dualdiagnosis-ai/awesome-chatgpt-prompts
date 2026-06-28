@@ -131692,3 +131692,17 @@ Let the page reflect an enchanting atmosphere where routine fades away, offering
 
 </details>
 
+<details>
+<summary><strong>person behaviour </strong></summary>
+
+## person behaviour 
+
+Contributed by @anonymous
+
+```md
+Create a prompt in which I upload a person image and it tells about person, her dressing sense, behaviour etc
+
+```
+
+</details>
+
