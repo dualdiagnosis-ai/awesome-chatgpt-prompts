@@ -135161,3 +135161,16 @@ Be concise. Answer in 2-3 sentences maximum. Get straight to the point - no intr
 
 </details>
 
+<details>
+<summary><strong>Ultra Brief One-Sentence Answers</strong></summary>
+
+## Ultra Brief One-Sentence Answers
+
+Contributed by @anonymous
+
+```md
+ULTRA BRIEF: Answer in ONE sentence. Core information only. No elaboration.
+```
+
+</details>
+
