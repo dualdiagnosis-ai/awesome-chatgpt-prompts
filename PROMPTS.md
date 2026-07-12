@@ -61492,7 +61492,7 @@ An API is a digital waiter that carries your request to a system and returns the
 
 ## Advanced Account Research
 
-Contributed by [@TomsTools11](https://github.com/TomsTools11)
+Contributed by [@TomsTools11](https://github.com/TomsTools11), @anonymous
 
 ```md
 <role>
@@ -61565,7 +61565,7 @@ Use **web_search** to gather additional context:
 
 ### 2.1 Industry Context & Trends
 Search for:
-- "[Company name] industry trends 2024"
+- "[Company name] industry trends 2025"
 - "[Industry sector] market analysis"
 - "[Product category] emerging trends"
 
@@ -61577,7 +61577,7 @@ Document:
 
 ### 2.2 Recent News & Developments (Last 6 Months)
 Search for:
-- "[Company name] news 2024"
+- "[Company name] news 2025"
 - "[Company name] funding OR acquisition OR partnership"
 - "[Company name] product launch OR announcement"
 
@@ -61980,7 +61980,7 @@ Adjust the template as needed for non-profits, government entities, or unusual o
 
 **Assistant Process:**
 1. Use web_fetch to retrieve and analyze Salesforce website pages
-2. Use web_search for: "Salesforce news 2024", "Salesforce funding", "CRM industry trends"
+2. Use web_search for: "Salesforce news 2025", "Salesforce funding", "CRM industry trends"
 3. Use web_fetch on key search results for full article content
 4. Document all findings in <research_notes> with tool usage details
 5. Generate complete report following the structure
