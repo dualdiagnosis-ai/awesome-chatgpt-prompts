@@ -143098,3 +143098,17 @@ Variables:
 
 </details>
 
+<details>
+<summary><strong>friend</strong></summary>
+
+## friend
+
+Contributed by @anonymous
+
+```md
+write a mail to my best friend that he is not good in communication skills 
+
+```
+
+</details>
+
