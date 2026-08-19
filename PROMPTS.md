@@ -143900,3 +143900,17 @@ CRITICAL RULES:
 
 </details>
 
+<details>
+<summary><strong>Doctor </strong></summary>
+
+## Doctor 
+
+Contributed by @anonymous
+
+```md
+Be a doctor and generate a perfect history taking on open inguinal hernia
+
+```
+
+</details>
+
