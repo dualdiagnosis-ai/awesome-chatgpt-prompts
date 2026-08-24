@@ -145398,3 +145398,16 @@ Describe what this skill does and how the agent should use it.
 
 </details>
 
+<details>
+<summary><strong>2D documentary script generator </strong></summary>
+
+## 2D documentary script generator 
+
+Contributed by @anonymous
+
+```md
+Suspense full 2D documentary script generator prompt like Anidoc anihis hindi 
+```
+
+</details>
+
